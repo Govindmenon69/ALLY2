@@ -8,6 +8,6 @@
                                                      
 
 Original by GOOGLE LLC , CHROMIUM AUTHORS 
-modified by GOVIND MENON
+opensourced and repo'ed by GOVIND MENON
 
-©Govind Menon , Google LLC , Chromium Authors
+© Govind Menon , Google LLC , Chromium Authors
